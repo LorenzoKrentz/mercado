@@ -1,0 +1,19 @@
+{
+  "name": "mercado-mistico-main",
+  "version": "1.0.0",
+  "description": "Nomes: Giovanna Reis, Lorenzo Krentz e Mariana Toledo O nosso mercado místico, pensamos em por algo diferente do normal, a maioria fez sobre alienígenas e sobre o universo, nós pensamos em fazer algo diferente. Fizemos um tema mais infantil digamos, usamos imagens de ursinhos digamos, primeiro pegamos uma gatinha com roupa de princesa, usamos um bebê porco espinho usando uma bolsa e uma roupa, e uma girafa criança com uma roupa mais de fazenda. Mas não apenas ursinhos como também usamos coisas do dia a dia, pegamos a imagem de um carro, especificamente um carro vermelho, uma lavanderia, uma cama alta com gaveta, uma penteadeira com espelho e por fim uma casa de dois andares com varanda. Algo relacionado com o tema em geral, os ursinhos e as coisas do dia a dia são basicamente do mesmo tamanho, para ficar tudo relacionado um com o outro, e então pro fundo do nosso mercado usamos a imagem de um monte de ursos diferentes. Colocamos um destaque de rosa na parte de pesquisa dos produtos e na parte do carrinho de compras colocamos um destaque de rosa também, para combinar as cores juntamente com as cores dos produtos. Já na parte final do carrinho de compras, colocamos um destaque de vermelho na parte do finalizar compra e na parte de remover o produto, deixamos com algumas bordas nos produtos e na parte do carrinho de compras também e por fim na parte de adicionar ao carrinho os produtos, colocamos uma cor azul de destaque tudo relacionado com as cores dos produtos e das imagens, para combinar e ficar tudo em perfeito estado. Quem teve a ideia desse tema foi a Giovanna, e em questão do código, todos nós fizemos uma parte, eu Lorenzo, fiz uma parte do html e css, a Giovanna arrumou umas coisas dele também, ja a pagina de login, a Marina fez e ajudou a Giovanna na parte do java script e eu estou fazendo essa documentação.",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "nodemon": "^3.1.4"
+  }
+}
